@@ -6,9 +6,9 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nikhil258090&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-gangwar /> 
-  <a href="https://twitter.com/NikhilG114421" target="blank">
-    <img src="https://img.shields.io/instagram/follow/nikhil_gangwa4?logo=twitter&style=for-the-badge" alt="nikhil_gangwa4" />
+  <img src="https://komarev.com/ghpvc/?username=nikhil258090&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil258090" /> 
+  <a href="https://twitter.com/NikhilG22114421" target="blank">
+    <img src="https://img.shields.io/twitter/follow/NikhilG22114421?logo=twitter&style=for-the-badge" alt="NikhilG22114421" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **[Zerodha Clone](https://github.com/varungangwar2005/zerodha-clone)**  
 - 🌱 I’m currently learning **React, Web Dev & DSA**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/varungangwar2005)  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/nikhil258090)  
 - 💬 Ask me about **React, Web Development**  
 - 📫 How to reach me: **gangwarn411@gmail.com**  
 - ⚡ Fun fact: **I'm stepping out of my comfort zone**
@@ -111,16 +111,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/varungangwar001" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varungangwar001" />
+  <a href="https://twitter.com/NikhilG22114421" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="NikhilG22114421" />
   </a>
-  <a href="https://linkedin.com/in/varungangwar" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="varungangwar" />
+  <a href="https://linkedin.com/in/nikhil-gangwar" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nikhil-gangwar" />
   </a>
-  <a href="https://instagram.com/varungangwar01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="varungangwar01" />
+  <a href="https://instagram.com/nikhil_gangwa4" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nikhil_gangwa4" />
   </a>
-  <a href="mailto:varun.gangwar76@gmail.com">
+  <a href="mailto:gangwarn411@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -128,3 +128,4 @@
 ## 💡 Fun Fact
 
 ⚡ **"I'm stepping out of my comfort zone, but I'm still an introvert at heart."**
+
