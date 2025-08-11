@@ -86,7 +86,7 @@
   </a>
   
   <!-- DSA in Java -->
-  <a href="https://github.com/varungangwar2005?tab=repositories&q=dsa" target="_blank" rel="noreferrer">
+  <a href="https://github.com/nikhil258090?tab=repositories&q=dsa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DSA%20in%20Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="DSA in Java"/>
   </a>
 </p>
@@ -100,12 +100,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varungangwar2005&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varungangwar2005&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikhil258090&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil258090&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varungangwar2005&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil258090&layout=compact&theme=radical" />
 </div>
 
 ## 🌐 Connect With Me
