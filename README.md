@@ -19,7 +19,7 @@
     
 ## 🔥 Current Focus
 
-- 🔭 I’m currently working on **[Zerodha Clone](https://github.com/varungangwar2005/zerodha-clone)**  
+- 🔭 I’m currently working on **movieshow**  
 - 🌱 I’m currently learning **React, Web Dev & DSA**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/nikhil258090)  
